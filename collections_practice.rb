@@ -3,3 +3,7 @@ def sort_array_asc(array)
     b <=> a
   end
 end
+
+def sort_array_desc(array)
+  array.sort
+end
